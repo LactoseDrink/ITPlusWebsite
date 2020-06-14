@@ -1,0 +1,4 @@
+<span id="a">root@WillH</span>:<span id="b">~</span><span id="c">$</span> cat other.txt<br/><br/>
+<p>Do you want a challenge?.<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>
+<p>Try and hit 198.199.88.138 offline. To make it easier on you, all ports are opened. Good Luck :).</p>
+<p>Back To <a href="https://lactosedrink.github.io/ITPlusWebsite/index.html">Main Page</a>.
