@@ -1,0 +1,5 @@
+<span id="a">root@WillH</span>:<span id="b">~</span><span id="c">$</span> nano hobbies.txt<br/><br/>
+My Hobbies include:.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Video Games</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>Ethical Hacking and Networking.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --></p>
+<p><!-- slightdelayhere-->And I record and edit clips for a youtube channel. <!-- longlongcomment --> Back to <a href="https://lactosedrink.github.io/ITPlusWebsite/hobbies.html">Main Page</a>.
+<p>Thanks for checking out my website :) .</p>
