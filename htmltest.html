@@ -1,0 +1,20 @@
+<html> 
+<head> 
+<title>Will H</title> 
+<style>
+body {
+  background-image: url('ace.jpg');
+}
+</style>
+<form> 
+  <p>First name: <input type="text" id="fname" name ="firstname"></p>
+  <p>Last name: <input type="text" id="lname" name="lastname"></p>
+  <p><input type="button" value="Submit" id="namebutton"></p>
+  <script>
+    var fname = document.getElementById("fname");
+    var lname = document.getElementById("lname");
+    document.getElementById("namebutton").addEventListener("click", function () { 
+      alert('Hello ' + fname.value + " " + lname.value);
+    })
+  </script>
+</form>
