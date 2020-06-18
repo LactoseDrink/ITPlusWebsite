@@ -5,5 +5,7 @@ If you would like to get in touch with me,<!-- slightdelayhere-->, feel free to 
 <p><a href="https://lactosedrink.github.io/ITPlusWebsite/hobbies.html">Hobbies.txt</a>.
 <p><a href="https://lactosedrink.github.io/ITPlusWebsite/about.html">About.txt</a>.
 <p><a href="https://lactosedrink.github.io/ITPlusWebsite/other.html">Other.txt</a>.
+<p><a href="https://lactosedrink.github.io/ITPlusWebsite/table.html">Table_Example.txt</a>.
+<p><a href="https://lactosedrink.github.io/ITPlusWebsite/htmltest.html">User Input_Example.txt</a>.
 
 <p>Thanks for checking out my website :) .</p>
